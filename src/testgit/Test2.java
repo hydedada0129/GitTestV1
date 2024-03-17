@@ -8,6 +8,8 @@ class Test2 {
 		
 		//add another printf
 		System.out.println("first change ");
+		
+		System.out.println("add another line for pr");
 	}
 
 }
