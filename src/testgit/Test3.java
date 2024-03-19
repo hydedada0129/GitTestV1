@@ -8,6 +8,8 @@ class Test3 {
 		
 		//add another printf
 		System.out.println("first change ");
+		
+		System.out.println("this is from Test3.");
 	}
 
 }
