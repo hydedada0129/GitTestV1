@@ -1,6 +1,6 @@
 package testgit;
 
-class Test2 {
+class Test3 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -8,8 +8,6 @@ class Test2 {
 		
 		//add another printf
 		System.out.println("first change ");
-		
-		System.out.println("add another line for pr");
 	}
 
 }
